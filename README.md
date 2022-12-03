@@ -1,6 +1,17 @@
 # JustAMoment
 
-```md
+# Challenge
+Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+## User Story
+
+```
+AS AN employee with a busy schedule
+I WANT to add important events to a daily planner
+SO THAT I can manage my time effectively
+```
+## Acceptance Criteria
+```
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
@@ -15,3 +26,9 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+## Screenshot
+![](./img/demo1.gif)
+
+## Repository Link and Deployment
+
+https://github.com/Jtran028/JustAMoment
