@@ -32,3 +32,4 @@ THEN the saved events persist
 ## Repository Link and Deployment
 
 https://github.com/Jtran028/JustAMoment
+https://jtran028.github.io/JustAMoment/
